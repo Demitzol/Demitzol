@@ -12,7 +12,7 @@
 <div>
 <h2 align="center"> About me :3 </h2>
   <div align="center">
-<img src="https://pnghq.com/wp-content/uploads/tbh-creature-png-hd-transparent-png-53838.png" weight="100" height="100" align="right">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ddc68049-a06e-42e3-a34d-e70995eb7388/dfmi48b-555f2e41-20ff-4eb3-b8db-0f99482fd434.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkYzY4MDQ5LWEwNmUtNDJlMy1hMzRkLWU3MDk5NWViNzM4OFwvZGZtaTQ4Yi01NTVmMmU0MS0yMGZmLTRlYjMtYjhkYi0wZjk5NDgyZmQ0MzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HahcrrprbK2bysca9yZN3uaxiqzzGotGhUmEre3mP10" weight="200" height="200" align="right">
   </div>
 <li>
  <b>Name:</b> Demi <a href="https://en.pronouns.page/@cyberdemi">(+ other names)</a></li>
@@ -51,30 +51,62 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/8a/8c/79/8a8c792dc3726ee8538994a477e6f566.gif" align="right">
   </div>
 </div>
 <div>
   <br>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <a href="https://www.behance.net/demisdesignart" target="_blank"></a><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
- <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/> <br>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <a href="https://www.behance.net/demisdesignart" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+<br>  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+  
+  I'm learning Python, HTML, CSS and Java for coding! <br>
+  For Graphic Design i used so many softwares doing it. <br>
+  I'm doing logos, posters, headers/banners, bussiness cards etc!
 </p>
 <br>
-<h2 align="center">           Contact me ^_^</h2>
+<h2 align="center">           Socials ^_^</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://64.media.tumblr.com/81fb58a383beca75c7f253c3a42587e7/79ce0d0436db421a-fd/s540x810/1f390e536a4fd900b8974e6e89733e7ff65e1247.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">These are <br>
+my socials :3</p>
+<p align="center">
+    <a href="https://www.instagram.com/demisdesignart" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a> 
+    <a href="https://x.com/demisdesignart" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://demisdesignart.tumblr.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" />
+      <br>
+    </a>
+    <a href="https://discord.gg/gDT5CHkMyd" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  <a href="https://gr.pinterest.com/demilovesoreocookies/" target="_blank">
+        <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/demiscoding" target="_blank">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+    <br>
+  </a>
+    <a href="https://open.spotify.com/user/9hdv6wwqwtplz62sq3hy48l1n" target="_blank">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://soundcloud.com/av0spcrrm2ih" target="_blank">
+        <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+</p>
+
 </div>
 <br>
 <div>
 <h2 align="center">Tysm for reading!</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://gifdb.com/images/high/cinnamoroll-498-x-264-gif-i05370158dexim8t.gif">
 </div>
 <hr>
 </div>
