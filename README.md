@@ -12,7 +12,7 @@
 <div>
 <h2 align="center"> About me :3 </h2>
   <div align="center">
-<img src="https://pnghq.com/wp-content/uploads/tbh-creature-png-hd-transparent-png-53838.png" weight="200" height="200" align="right">
+<img src="https://pnghq.com/wp-content/uploads/tbh-creature-png-hd-transparent-png-53838.png" weight="100" height="100" align="right">
   </div>
 <li>
  <b>Name:</b> Demi <a href="https://en.pronouns.page/@cyberdemi">(+ other names)</a></li>
