@@ -3,7 +3,7 @@
 <h1 align="center"> Welcome to my profile! ^_^ </h1>
 <br>
 <div align="center">
-   <img src="https://steamuserimages-a.akamaihd.net/ugc/35243779582936202/A4C964AA9DD69A66E5B7CF5DD6CB0922B756E6F4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+   <img src="https://media1.tenor.com/m/EdMKwueHROsAAAAd/drossel-von-fl%C3%BCgel-drossel.gif" />
   
 </div>
     <div align="center">
