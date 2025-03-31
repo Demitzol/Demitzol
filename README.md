@@ -99,7 +99,7 @@ my socials :3</p>
         <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
 
 <a href="https://www.last.fm/user/demi2005" target="_blank">
-  <img src=https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"/>
 </a>
 </p>
 
