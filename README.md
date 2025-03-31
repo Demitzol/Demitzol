@@ -16,8 +16,6 @@
   </div>
 <li>
  <b>Name:</b> Demi <a href="https://en.pronouns.page/@cyberdemi">(+ other names)</a></li>
-<li>
-<b>My Carrd:</b> https://demisdesignart.carrd.co/
 </li>
 <li>
 <b>Age:</b> 19
