@@ -31,9 +31,6 @@
 <b>Gender:</b> Female
 </li>
 <li>
-<b>LastFM:</b> https://www.last.fm/user/demi2005
-</li>
-<li>
 <b>Hobbies:</b> design/drawing, coding, playing video games, listening to music, watching tv show/anime/movie etc
 </li>
 <li>
