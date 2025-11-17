@@ -29,13 +29,13 @@ greek  <img src="https://i.postimg.cc/rwvysshd/bisexual-3-stripes-20-px.png"> <i
 <br>
   <h1> I'm Using </h1>
   <b><p> In Graphic Design</p></b>
-  <img src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"> Photopea
 <br>
   <b><p> In Programming</p></b>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black">
   <br>
 <b><p> Others</p></b>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white"> MMD
 <h1>My Projects i made!</h1>
   <b><p>Graphic Design</p></b>
   <p>Posters</p>
@@ -45,6 +45,14 @@ greek  <img src="https://i.postimg.cc/rwvysshd/bisexual-3-stripes-20-px.png"> <i
   <img src="https://i.postimg.cc/XqG2SVqb/vintagelogo2.png" width="30%"> <img src="https://i.postimg.cc/CLsVvgBd/kuma-cafe-logo.jpg" width="30%"> <img src="https://i.postimg.cc/FHFX8B3H/y2klogo2.jpg" width="30%">
   <br>
   <b><p>Digital Art</p></b>
-  <p>WIP</p>
+ <img src="https://i.postimg.cc/7LGDVBp6/neko-miku.jpg" width="30%"> <img src="https://i.postimg.cc/RZb4wrpy/these-trio-lol.jpg" width="30%"> <img src="https://i.postimg.cc/q7PrZsTp/pops-meets-gwen-2.jpg" width="30%">
+  <b><p>Coding Stuff</p></b>
+  <b><p>Check below my recent that i coded!</p></b>
+  <h1> Socials! ^-^ </h1>
+<a href="https://www.instagram.com/demisdesignart/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> <a href="https://x.com/demisdesignart"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"></a> <a href="https://www.tumblr.com/demisdesignart"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white"></a> <a href="https://pinterest.com/demilovesoreocookies/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a> <a href="https://discord.com/users/1187789769858633730"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a> <a href="https://www.behance.net/demisdesignart"><img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white"></a> <a href="https://www.deviantart.com/demisdesignart"><img src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff"></a> <a href="https://www.last.fm/user/demi2005"><img src="https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white"></a>
+<br>
+  <img src="https://images.steamusercontent.com/ugc/856102610093965022/D0672195B31FC9ADF3C65F55EA0FDA00324D7A47/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%">
+  <br>
+<img src="https://dividers.crd.co/assets/images/gallery10/4dc7da57.gif?v=05d33f91">
 </center>
 </body>
