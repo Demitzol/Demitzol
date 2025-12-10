@@ -35,7 +35,7 @@ greek  <img src="https://i.postimg.cc/rwvysshd/bisexual-3-stripes-20-px.png"> <i
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black">
   <br>
 <b><p> Others</p></b>
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white"> MMD
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white">
 <h1>My Projects i made!</h1>
   <b><p>Graphic Design</p></b>
   <p>Posters</p>
